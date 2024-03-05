@@ -47,15 +47,15 @@ Take a look at the live project deployed on Netlify
 
 ** ------------------------------------- DESKTOP  -------------------------------------**
 
-<img src="https://github.com/Sky-De/Next-Js-Server-Action/assets/79264045/503d8fb0-5001-49be-816f-43a94d44dc0a" width="80%">
+<img src="https://github.com/Ghassan-SkyDe/Next-Js-Server-Action/assets/79264045/503d8fb0-5001-49be-816f-43a94d44dc0a" width="80%">
 
-<img src="https://github.com/Sky-De/Next-Js-Server-Action/assets/79264045/e76dfe48-ec2c-4f7e-b412-23143176f77e" width="80%">
+<img src="https://github.com/Ghassan-SkyDe/Next-Js-Server-Action/assets/79264045/e76dfe48-ec2c-4f7e-b412-23143176f77e" width="80%">
 
 ** -------------------------------------- Mobile ------------------------------------**
 
-<img src="https://github.com/Sky-De/Next-Js-Server-Action/assets/79264045/4e41822f-a2df-43fb-9955-d7050d582641" width="270">
+<img src="https://github.com/Ghassan-SkyDe/Next-Js-Server-Action/assets/79264045/4e41822f-a2df-43fb-9955-d7050d582641" width="270">
 
-<img src="https://github.com/Sky-De/Next-Js-Server-Action/assets/79264045/34ca4bf0-9310-4a0e-913d-fcf019887970" width="270">
+<img src="https://github.com/Ghassan-SkyDe/Next-Js-Server-Action/assets/79264045/34ca4bf0-9310-4a0e-913d-fcf019887970" width="270">
 
 ![line]
 
@@ -77,7 +77,7 @@ Provided step-by-step instructions on how to install and run this project locall
 
 ```bash
 # Clone the repository
-git clone https://github.com/Sky-De/Next-Js-Server-Action
+git clone https://github.com/Ghassan-SkyDe/Next-Js-Server-Action
 
 # Change directory
 
@@ -92,10 +92,6 @@ npm run start
 [line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
 ## Contact
 
-**skyDe**
+**Ghassan-SkyDe**
 
-[LinkedIn](https://www.linkedin.com/in/sky-de-763248228)
-
-[GitHub](https://github.com/Sky-De)
-
-[Twitter](https://twitter.com/SkyDe1991?t=b2SJxGA4wmHwwgxDUUtE8Q&s=09)
+[GitHub](https://github.com/Ghassan-SkyDe)
